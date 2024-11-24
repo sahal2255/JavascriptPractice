@@ -1,6 +1,12 @@
-{
-    "name":"sahal",
-    "job":"MERN stack Developer",
-    "city":"Kozhikode"
-
-}
+[
+  {
+    "name": "sahal",
+    "job": "MERN stack Developer",
+    "city": "Kozhikode"
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "age": 28
+  }
+]
